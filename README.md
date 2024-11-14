@@ -1,6 +1,6 @@
 #  Mean and variance of a discrete  distribution
 ### Name: Sanjay sivaramakrishnan M
-### Reg no:212223240151
+### Reg no: 212223240151
 ## Date : 
 
 # Aim : 
